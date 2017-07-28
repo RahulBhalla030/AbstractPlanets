@@ -26,7 +26,7 @@ namespace AbstractPlanet
         private int _ringCount;
         private double _rotationPeriod;
 
-        //Public Properties
+        //Public Prop
         public double Diameter
         {
             get
